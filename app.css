@@ -1,0 +1,10 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid red;
+  line-height: 100px;
+  border-radius: 10%;
+}
